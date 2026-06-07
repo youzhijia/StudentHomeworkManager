@@ -1,0 +1,6 @@
+{
+  "name": "学生作业管家",
+  "description": "一个专为家长和学生设计的智能作业管家应用，提供智能家庭作业计划生成、每日作业单管理、日历纠错、任务库及学习情况趣味统计功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
